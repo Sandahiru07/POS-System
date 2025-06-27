@@ -46,6 +46,35 @@ This **Point of Sale (POS) System** is designed for efficient management of prod
 
 ## 📸 Screenshots
 
+### 🧾 Billing Interface  
+![Billing](src/photoes/Billing.jpg)
+
+### 📦 Brand Management  
+![Brand](src/photoes/Brand.jpg)
+
+### 🗂️ Category Management  
+![Category](src/photoes/Category.jpg)
+
+### 🔐 Login Screen  
+![Login](src/photoes/Login.jpg)
+
+### 🛍️ Product Panel  
+![Product](src/photoes/Product.jpg)
+
+### 🧾 Receipt Preview  
+![Receipt](src/photoes/Receipt.jpg)
+
+### 📝 Sign-Up Page  
+![SignUp](src/photoes/SignUp.jpg)
+
+### 🔄 Forgot Password  
+![Forgot Password](src/photoes/Forgot.jpg)
+
+### 🔑 Update Password  
+![Update Password](src/photoes/UpdatePassword.jpg)
+
+### ✅ OTP Verification  
+![Verify Code](src/photoes/verifycode.jpg)
 
 ---
 
