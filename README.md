@@ -77,7 +77,7 @@ This **Point of Sale (POS) System** is designed for efficient management of prod
 ![Receipt Interface](src/Photoes/Receipt.jpg)
 
 
-<small>Note: This is a receipt preview. Use your printer to print the receipt.</small
+<small>Note: This is a receipt preview. Use your printer to print the receipt.</small>
 
 ---
 
