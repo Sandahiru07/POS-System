@@ -68,7 +68,7 @@ This **Point of Sale (POS) System** is designed for efficient management of prod
 ![SignUp](src/photoes/SignUp.jpg)
 
 ### 🔄 Forgot Password  
-![Forgot Password](src/photoes/Forgot.jpg)
+![Forgot Password](src/Photoes/Forgot.jpg)
 
 ### 🔑 Update Password  
 ![Update Password](src/photoes/UpdatePassword.jpg)
