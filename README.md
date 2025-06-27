@@ -44,6 +44,11 @@ This **Point of Sale (POS) System** is designed for efficient management of prod
 
 ---
 
+## 📸 Screenshots
+
+
+---
+
 ## 🛠️ Future Enhancements
 - [ ] Implement barcode scanning
 - [ ] Add multi-user roles with permissions
