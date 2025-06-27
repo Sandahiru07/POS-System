@@ -46,35 +46,36 @@ This **Point of Sale (POS) System** is designed for efficient management of prod
 
 ## 📸 Screenshots
 
-### 🧾 Billing Interface  
-![Billing](src/photoes/Billing.jpg)
-
-### 📦 Brand Management  
-![Brand](src/photoes/Brand.jpg)
-
-### 🗂️ Category Management  
-![Category](src/photoes/Category.jpg)
-
 ### 🔐 Login Screen  
-![Login](src/photoes/Login.jpg)
-
-### 🛍️ Product Panel  
-![Product](src/photoes/Product.jpg)
-
-### 🧾 Receipt Preview  
-![Receipt](src/photoes/Receipt.jpg)
+![Login Interface](src/Photoes/Login.jpg)
 
 ### 📝 Sign-Up Page  
-![SignUp](src/photoes/SignUp.jpg)
+![SignUp Interface](src/Photoes/SignUp.jpg)
 
 ### 🔄 Forgot Password  
-![Forgot Password](src/Photoes/Forgot.jpg)
-
-### 🔑 Update Password  
-![Update Password](src/photoes/UpdatePassword.jpg)
+![Forgot Password Interface](src/Photoes/Forgot.jpg)
 
 ### ✅ OTP Verification  
-![Verify Code](src/photoes/verifycode.jpg)
+![Verify Code Interface](src/Photoes/verifycode.jpg)
+
+### 🔑 Update Password  
+![Update Password Interface](src/Photoes/UpdatePassword.jpg)
+
+### 🗂️ Category Management  
+![Category Frame](src/Photoes/Category.jpg)
+
+### 📦 Brand Management  
+![Brand Frame](src/Photoes/Brand.jpg)
+
+### 🛍️ Product Panel  
+![Product frame](src/Photoes/Product.jpg)
+
+### 🧾 Billing Interface  
+![Billing Frame](src/Photoes/Billing.jpg)
+
+### 🧾 Receipt Preview  
+![Receipt Interface](src/Photoes/Receipt.jpg)
+<small>Note: This is a receipt preview. Use your printer to print the receipt.</small>
 
 ---
 
